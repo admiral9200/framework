@@ -52,10 +52,7 @@ The Framework uses [Laravel](https://laravel.com) as a foundation PHP framework.
 
 ## Contact
 
-You can communicate with us using the following mediums:
-
-* [Follow us on Twitter](https://twitter.com/laravelshopper) for announcements and updates.
-* [Join us on Discord](https://laravelshopper.io/discord) to chat with us.
+email: lion9200.world@gmail.com
 
 ## Contributing
 
